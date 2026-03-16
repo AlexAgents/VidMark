@@ -1,0 +1,83 @@
+# --------------------
+# Python artifacts
+# --------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+env/
+.venv/
+.env/
+
+# --------------------
+# IDE/editor
+# --------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.orig
+
+# --------------------
+# Distribution / packaging
+# --------------------
+dist/
+build/
+*.egg-info/
+*.egg
+*.spec
+
+# PyInstaller runtime
+*.manifest
+*.exe
+*.dll
+
+# --------------------
+# OS
+# --------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --------------------
+# App temp/settings (if ever created in project dir)
+# (Note: your app uses user home dirs, but keep these just in case)
+# --------------------
+.vws_temp/
+.vws_settings/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# pytest/coverage
+# --------------------
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# --------------------
+# Test videos and generated results (repo-specific)
+# --------------------
+video/
+
+# If you want to ignore all videos anywhere in the repo, keep these.
+# Otherwise, remove these patterns and rely on ignoring /video/ folder only.
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.webm
+
+# Key files generated during testing
+*_key.json

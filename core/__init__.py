@@ -1,0 +1,1 @@
+"""VidMark core modules (watermarking, ECC, payload, metrics, attacks)."""

@@ -1,0 +1,1 @@
+"""VidMark utility modules (video I/O, image conversion helpers)."""
