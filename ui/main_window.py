@@ -48,7 +48,7 @@ from workers.video_worker import (EmbedWorker, ExtractWorker,
 
 logger = logging.getLogger(__name__)
 
-GITHUB_URL = "https://github.com/qexela/VideoWatermarkShield"
+GITHUB_URL = "https://github.com/qexela/VidMark"
 
 # File to persist "don't show again" preferences
 _PREFS_FILE = os.path.join(SETTINGS_DIR, "prefs.json")
