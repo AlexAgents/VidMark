@@ -1,5 +1,5 @@
 # VidMark
-# Copyright (C) 2026 qexela
+# Copyright (C) 2026 AlexAgents
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -56,7 +56,7 @@ class ECCType(Enum):
 # ----------------------------
 APP_NAME = "VidMark"
 APP_VERSION = "1.0.0"
-APP_AUTHOR = "qexela"
+APP_AUTHOR = "AlexAgents"
 APP_DESCRIPTION = "Video Watermark Shield — Robust invisible video watermarking tool"
 
 WINDOW_MIN_WIDTH = 960

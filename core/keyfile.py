@@ -1,5 +1,5 @@
 # VidMark
-# Copyright (C) 2026 qexela
+# Copyright (C) 2026 AlexAgents
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

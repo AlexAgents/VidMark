@@ -7,8 +7,8 @@
 > Инструмент встраивания ЦВЗ в видео методом DWT-DCT с QIM.
 
 <!-- Группа 1: Ссылки и Технологии -->
-[![Release](https://img.shields.io/github/v/release/qexela/VidMark?logo=github&color=blue)](https://github.com/qexela/VidMark/releases/latest)
-[![License](https://img.shields.io/github/license/qexela/VidMark?color=yellow)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/AlexAgents/VidMark?logo=github&color=blue)](https://github.com/AlexAgents/VidMark/releases/latest)
+[![License](https://img.shields.io/github/license/AlexAgents/VidMark?color=yellow)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-4.4+-007808?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/download.html)
 
@@ -123,7 +123,7 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/qexela/VidMark.git
+git clone https://github.com/AlexAgents/VidMark.git
 cd VidMark
 
 python -m venv venv
@@ -298,6 +298,6 @@ scripts\clean.ps1           # Windows PowerShell
 
 <div align="center">
 
-*Licensed under [GPLv3](LICENSE) • © 2026 qexela*
+*Licensed under [GPLv3](LICENSE) • © 2026 AlexAgents*
 
 </div>
